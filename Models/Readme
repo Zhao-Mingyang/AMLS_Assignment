@@ -1,1 +1,2 @@
-
+These are the models for the classification. These classical models: VGG, resnet, densenet, efficientnet, moblienet are the implementations from Pytorch. The adjustment is
+the input dimension of the model (3->1). These transformer based model come from the implementation avaliable in Github.
